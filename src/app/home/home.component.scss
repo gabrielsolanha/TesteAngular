@@ -1,0 +1,148 @@
+.botao-verde {
+    background-color: #66cb66;
+    border-radius: 0px;
+    font-size: 1.2rem;
+    padding: 5px 20px;
+    color: #2e3c50;
+}
+.row-top-home {
+    max-width: 90%;
+    margin-right: 0;
+}
+.imagem {
+    max-width: 500px;
+    height: 570px;
+    border-radius: 50px 0 0 0;
+    object-fit: cover;
+    object-position: left;
+}
+.tituloprincipal {
+    font-size: 3.9rem;
+}
+.subtituloprincipal {
+    font-size: 1.2rem;
+}
+.imagem-logo-top-home {
+    max-width: 40%;
+}
+.container-top-home {
+    margin: 0 0 0 auto;
+}
+.col-md-6-top-home-left {
+    margin: 50px auto;
+}
+.col-md-6-top-home-left h1,
+.col-md-6-top-home-left .subtituloprincipal {
+    margin: 25px auto;
+    padding: 25px auto;
+}
+.cordolado-01 {
+    width: 300px;
+    max-width: 200px;
+    height: 200px;
+    background-color: #66cb66;
+    margin: 0;
+    padding: 0;
+}
+.cordolado-02 {
+    width: 300px;
+    max-width: 200px;
+    height: 370px;
+    background-color: #2e3c50;
+    margin: 0;
+    padding: 0;
+}
+.row-top-home,
+.container-top-home,
+.centralizador-home {
+    margin-right: 0;
+    padding-right: 0;
+}
+.container-block-home {
+    padding: 20px 50px;
+    width: 80%;
+}
+.centralizador {
+    display: block;
+    margin: 0 auto;
+}
+.fundo-imagem-home {
+    background-color: #66cb66;
+    height: 650px;
+    width: 500px;
+    max-width: 500px;
+    border-radius: 100px 0 0 0;
+}
+.bloco-acima-da-img {
+    top: -135px;
+}
+.container-block-home p {
+    display: block;
+    margin: 0 auto;
+    font-size: 1.3rem;
+}
+
+.imagem-home-rectangle5 {
+    max-width: 500px;
+    border-radius: 0 0 50px 0;
+    margin-top: -35px;
+}
+.container-home-rectangle5 {
+    margin-left: 0;
+    padding-left: 0;
+    width: 100% !important;
+    max-width: 100% !important;
+}
+.side-rectangle5 h2 {
+    width: 100%;
+    font-size: 2.3rem;
+}
+.side-rectangle5 p.destaque {
+    width: 100%;
+    font-size: 1.2rem;
+}
+.side-rectangle5 p.sem-destaque {
+    width: 100%;
+    font-size: 1rem;
+}
+.container-block-home-n-img {
+    margin: 0;
+    padding: 0 20px;
+    width: 100%;
+    max-width: 100%;
+    background-color: #2e3c50;
+    background-image: url("../../assets/img/bg.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: #f3f1f0;
+}
+.container-block-home-n-img h2 {
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+}
+.container-block-home-n-img p {
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+}
+.d-block-home-n-img {
+    width: 60%;
+}
+.botao-verde {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #2e3c50;
+}
+footer {
+    background-color: #525d6e;
+}
+footer img {
+    max-height: 110px;
+    padding: 30px;
+    display: block;
+    margin: 0px auto;
+}
